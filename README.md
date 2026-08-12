@@ -65,3 +65,9 @@ gian làm ngoài ca, và các đơn bị bỏ. Chỉ tối ưu quãng đường 
 mọi khách phía sau trong tuyến bị đẩy lùi theo.
 
 Chúc vui. Bắt đầu ở [GUIDE.md](GUIDE.md).
+
+## Solver của đội NguyenDinhBinh
+
+Solver thi đấu nằm ở `solver.py`; cách chạy public/private, resume, ngân sách thời gian và
+hiệu chỉnh trọng số nằm trong [SOLVER.md](SOLVER.md). `starter/solver_starter.py` được giữ
+lại làm baseline để so sánh.
